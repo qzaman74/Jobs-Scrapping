@@ -1,0 +1,8 @@
+Learning: 3-4 Hours
+Trial: 1-2 Hours
+Implementation: 2-3 Hours
+
+
+*Learning: Learning & Searching for the things new to me.
+*Trial: Try and Running the learning/searched things in modules seperate from the task.
+*Implementation: Implementing them in real task.
